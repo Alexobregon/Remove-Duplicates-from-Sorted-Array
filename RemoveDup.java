@@ -10,7 +10,6 @@ class Solution {
                 nums[ui] = nums[i];
             }
         }
-      
         return ui +1;
     }
 }
